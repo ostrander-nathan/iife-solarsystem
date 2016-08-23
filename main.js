@@ -4,3 +4,7 @@ console.log(SolarSystem.getPlanets(0));
 console.log("SolarSystem", SolarSystem);
 console.log("Get Planets", SolarSystem.getPlanets());
 console.log("Get ActiveSpacecraft", SolarSystem.getActiveSpacecraft());
+
+
+console.log("det Dwarf Planets", SolarSystem.getdwarfPlanets());
+SolarSystem.setSolarSystem(100);
